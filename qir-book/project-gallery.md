@@ -169,7 +169,7 @@ docs
 :padding: 2
 **🐣 qbraid-qir**
 ^^^
-Python package providing support for QIR conversions, including Cirq to QIR.
+qBraid-SDK extension providing support for QIR conversions.
 +++
 ```{button-link} https://github.com/qBraid/qbraid-qir
 :color: primary
@@ -177,7 +177,7 @@ Python package providing support for QIR conversions, including Cirq to QIR.
 :expand:
 repo
 ```
-```{button-link} https://docs.qbraid.com/projects/qir/en/latest/
+```{button-link} https://docs.qbraid.com/qir
 :color: primary
 :outline:
 :expand:
